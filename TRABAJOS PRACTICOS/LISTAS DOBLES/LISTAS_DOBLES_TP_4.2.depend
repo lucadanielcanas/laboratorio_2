@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1600026228 source:e:\c\laboratorio_2\listas_dobles\persona.c
+	"persona.h"
+
+1600024632 e:\c\laboratorio_2\listas_dobles\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600734001 source:e:\c\laboratorio_2\listas_dobles\main.c
+	"listas_doblemente_enlazadas.h"
+
+1600734081 e:\c\laboratorio_2\listas_dobles\listas_doblemente_enlazadas.h
+	<stdio.h>
+	<stdlib.h>
+
+1600733257 source:e:\c\laboratorio_2\listas_dobles\listas_doblemente_enlazadas.c
+	"listas_doblemente_enlazadas.h"
+

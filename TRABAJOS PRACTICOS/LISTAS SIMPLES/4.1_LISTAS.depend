@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1600300721 source:d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\functions.c
+	"functions.h"
+
+1600298108 d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1600300613 d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1600024632 d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600300802 source:d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\listas.c
+	"listas.h"
+
+1600209374 source:d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\menu.c
+
+1600026228 source:d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\persona.c
+	"persona.h"
+
+1600301256 source:d:\mi things\1er año utn\programacion y laboratorio 2\4.1_listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1600301600 source:e:\c\laboratorio_2\4.1_listas\functions.c
+	"functions.h"
+
+1600298108 e:\c\laboratorio_2\4.1_listas\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1600300613 e:\c\laboratorio_2\4.1_listas\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1600024632 e:\c\laboratorio_2\4.1_listas\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600300802 source:e:\c\laboratorio_2\4.1_listas\listas.c
+	"listas.h"
+
+1600301552 source:e:\c\laboratorio_2\4.1_listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1600026228 source:e:\c\laboratorio_2\4.1_listas\persona.c
+	"persona.h"
+
